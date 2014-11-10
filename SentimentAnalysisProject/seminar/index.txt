@@ -1,0 +1,30 @@
+/*<?php
+
+$opinion = $_POST['opinion'];
+
+if($opinion)
+{
+$connect =mysql_connect("localhost","root","") or die("Couldn't connect MySql!");
+mysql_select_db("data") or die("Couldn't find MySql database!");
+$query =mysql_query("SELECT * FROM table WHERE opinion LIKE '%opinion%'");
+$numrows =mysql_num_rows($query);
+if ($numrows!=0)
+	{
+		while ($row =mysql_fetch_assoc($query))
+		{
+		$id =$row['id'];
+		$opinion =$row['opinion'];
+		$opints =$row['points'];
+		}
+		
+				
+				
+				
+	}			
+	
+}	
+else
+{
+die("please enter Opinion !!");
+}
+?>*/
