@@ -1,0 +1,16 @@
+SentimentAnalysisProject
+========================
+
+This project was a implementation part of my 3rd year Seminar.
+
+The system is used for analzing Hotel Customer Service.
+
+The system collects data about hotel ratings, food quality from customers reviews sites such as Zomato.com ,Tripadviser.com
+
+Then system analyze the review data to find the quality information about the hotel. The hotel rating is calculated based on various aspects of user reviews.
+
+Technology used:
+
+ - PHP
+ - HTML/CSS
+ - MySql Database
