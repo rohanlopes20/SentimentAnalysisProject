@@ -9,7 +9,7 @@ The system collects data about hotel ratings, food quality from customers review
 
 Then system analyze the review data to find the quality information about the hotel. The hotel rating is calculated based on various aspects of user reviews.
 
-Technology used:
+Technology used:-
 
  - PHP
  - HTML/CSS
